@@ -1,4 +1,4 @@
-# DevelopingDateProducts-Assignment
+# Developing Data Products - Assignment
 Shiny Assignment Documentation
 
 The App features a program that tries to predict, based on the Sepal Length, Sepal Width, Petal Length and Petal Width, the sub-species of the iris flower.
