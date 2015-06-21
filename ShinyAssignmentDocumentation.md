@@ -9,5 +9,6 @@ This means that errors are not handled and having non-numeric inputs might cause
 
 The program implements Linear Discriminant Analysis to derive at the final model. The current accuracy at more than 95%.
 
+After entering all four required values, user should click on the "Predict" button for the prediction. 
 
-
+A sample of each value and prediction should be shown on the user's first visit or refresh.
